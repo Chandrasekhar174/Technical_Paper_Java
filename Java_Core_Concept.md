@@ -1,6 +1,4 @@
-# Java Complete Notes
-
-A beginner-to-intermediate guide covering Java Basics, OOP, Core Concepts, and Java 8 features.
+# Java Core Concept
 
 ## Table of Contents
 
